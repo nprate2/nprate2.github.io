@@ -1,0 +1,16 @@
+rect {fill: blue; stroke: black;}
+circle {fill: blue; stroke: black;}
+
+.btnContainer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.btn {
+  margin: 10px;
+  border: 1px solid #3498db;
+  padding: 10px 30px;
+  font-size: 20px;
+  font-family: "montserrat";
+  cursor: pointer;
+}
